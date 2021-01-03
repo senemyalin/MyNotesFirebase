@@ -1,5 +1,6 @@
 package com.example.mynotesfirebase;
 
+
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.graphics.Color;
